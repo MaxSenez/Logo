@@ -14,7 +14,10 @@ namespace Logo
     {
         public Logoform()
         {
-            InitializeComponent(); //
+            InitializeComponent(); 
+
+            // this is a comment
+
         }
 
         private void logoButton_Click(object sender, EventArgs e)
